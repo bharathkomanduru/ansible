@@ -1,4 +1,4 @@
-- name: Add the user 'bharath_komanduru' with a specific uid and a primary group of 'wheel'
+-name: Add the user 'bharath_komanduru' with a specific uid and a primary group of 'wheel'
 hosts: all
 tasks:
 -name: Add user
