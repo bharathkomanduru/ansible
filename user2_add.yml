@@ -1,0 +1,7 @@
+-name: Add the user
+hosts: all
+tasks:
+-name: Add user
+user:
+name: bharath_komanduru
+group: wheel
