@@ -1,0 +1,5 @@
+- name: Add the user 'bharath_komanduru' with a specific uid and a primary group of 'wheel'
+  user: 
+    name: bharath_komanduru
+    comment: BharathK
+    group: wheel
